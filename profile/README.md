@@ -1,6 +1,6 @@
-Welcome to the TBC at Yale SOM's data repository. 
+Welcome to the TBC at Yale SOM's data repository. Our goal is to catalyze research on public education leadership through open data. 
 
-This repository houses TBC data resources. 
+
 
 <!--
 
