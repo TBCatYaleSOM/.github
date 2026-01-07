@@ -1,4 +1,6 @@
-## Hi there 👋
+Welcome to the TBC at Yale SOM's data repository. 
+
+This repository houses TBC data resources. 
 
 <!--
 
