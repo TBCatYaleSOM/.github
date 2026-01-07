@@ -1,6 +1,6 @@
 Welcome to TBC's data repository. Our goal is to catalyze research on public education leadership through open data. 
 
-Please check out our Superintendent Research Dataset. This is a public panel dataset tracking school superintendents in most US school districts. It is designed to be easy to merge with other education datasets (such as the Common Core of Data). Detailed documentation, including source data, source code, and citation information are available in the repo. 
+Please check out our Superintendent Research Dataset. This is a public panel dataset tracking school superintendents in most US school districts. It is designed to be easy to merge with other education datasets. Detailed documentation, including source data, source code, and citation information, are available in the repo. 
 
 Do not hesitate to reach out to us if you have questions or would like to contribute to this project. 
 
