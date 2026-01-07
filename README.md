@@ -1,2 +1,2 @@
 # .github
-![banner image](banner.png)
+This subfolder configures the look of the organization page. 
